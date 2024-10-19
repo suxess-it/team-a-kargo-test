@@ -1,0 +1,8 @@
+site_name: "kargo-test"
+site_description: "Documentation for kargo-test"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
